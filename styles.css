@@ -1,1 +1,27 @@
-/* Write your CSS here! */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    border: 5px solid black;
+    height: auto;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+    font-size: 90px;
+}
+
+p {
+    font-size: large;
+}
+
+.funParagraph {
+    color: green;
+}
